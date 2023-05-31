@@ -1,0 +1,14 @@
+.bookmark {
+    border-radius: 8px;
+    margin: 16px 0;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.bookmarked-post-title {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 29px;
+    color: #111111;
+
+}

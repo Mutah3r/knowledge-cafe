@@ -1,0 +1,17 @@
+.read-time-container {
+    background: rgba(96, 71, 236, 0.1);
+    border: 1px solid #6047EC;
+    border-radius: 8px;
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.read-time {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    color: #6047EC;
+}

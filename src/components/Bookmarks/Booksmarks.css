@@ -1,0 +1,34 @@
+.bookmarks-container {
+    background: rgba(17, 17, 17, 0.05);
+    border-radius: 8px;
+    padding: 30px;
+    position: sticky;
+    top: 24px;
+    /* max-height: 90vh; */
+    max-height: calc(100vh - 48px);
+    overflow-y: auto;
+    
+}
+
+.bookmarks-number {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    color: #111111;
+}
+
+/* Scrollbar */
+
+.scroll::-webkit-scrollbar {
+    width: 12px;
+}
+
+.scroll::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+.scroll::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.4);
+}

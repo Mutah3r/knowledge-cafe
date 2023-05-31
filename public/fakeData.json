@@ -1,0 +1,86 @@
+[
+    {
+      "id": "6425b756a30891e95920a90a",
+      "title": "How to get your first job as a self-taught programmer",
+      "cover_image": "https://img.freepik.com/free-photo/programmer-scanning-screen-his-smartwatch-with-smartphone-camera_1098-18710.jpg?w=740&t=st=1680193729~exp=1680194329~hmac=43ca8678cbb154a85a3521d5250782e3409e1cee7b7a8a1a9ac4eb2ad15baba7",
+      "author_image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "author_name": "Erica Dalton",
+      "read_time": 5,
+      "publish_date": "2016-05-20",
+      "tags": [
+        "programming",
+        "job",
+        "cv"
+      ]
+    },
+    {
+      "id": "6425b7560be0f311948af39e",
+      "title": "How to Review and Refactor Code with GPT-4 (and ChatGPT)",
+      "cover_image": "https://img.freepik.com/free-photo/ai-technology-brain-background-digital-transformation-concept_53876-125206.jpg?w=740&t=st=1680194184~exp=1680194784~hmac=2f090dc364c9e4c61bd879dfb24d1860dfbde0b95503a7753f0b721465ab3594",
+      "author_image": "https://st2.depositphotos.com/1001435/5764/i/600/depositphotos_57648747-stock-photo-teenager-near-the-window.jpg",
+      "author_name": "Maryann Dyer",
+      "read_time": 7,
+      "publish_date": "2017-06-21",
+      "tags": [
+        "chat_gpt",
+        "ai",
+        "programming"
+      ]
+    },
+    {
+      "id": "6425b7563491a725e6da6c60",
+      "title": "Working with JSON Files in Python, with Examples",
+      "cover_image": "https://img.freepik.com/free-vector/cute-snake-branch-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4188.jpg?w=740&t=st=1680194259~exp=1680194859~hmac=a2127f38f0d2c90628d21c1a78da5d0f3b6d87f3faa58fb44442ca180e10cf53",
+      "author_image": "https://media.istockphoto.com/id/1200677760/photo/portrait-of-handsome-smiling-young-man-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=g_ZmKDpK9VEEzWw4vJ6O577ENGLTOcrvYeiLxi8mVuo=",
+      "author_name": "Callahan Hardy",
+      "read_time": 11,
+      "publish_date": "2021-08-09",
+      "tags": [
+        "python",
+        "json",
+        "fake_data"
+      ]
+    },
+    {
+      "id": "6425b75691447fd496971a0a",
+      "title": "39 PHP String Functions You Can't Live Without",
+      "cover_image": "https://img.freepik.com/free-vector/hands-holding-symbols-different-programming-languages-programmers-using-software-coding-flat-vector-illustration-programming-engineering-technology-concept-banner-landing-page_74855-26028.jpg?w=740&t=st=1680194319~exp=1680194919~hmac=c364787b34fbddfcb5a838cfc6ae2f604eeb70d622e2f3d7045460c3004de852",
+      "author_image": "https://thumbs.dreamstime.com/b/portrait-chubby-young-man-against-gray-background-portrait-chubby-young-man-against-gray-background-154513213.jpg",
+      "author_name": "Esmeralda Medina",
+      "read_time": 10,
+      "publish_date": "2022-10-29",
+      "tags": [
+        "php",
+        "php_hacks",
+        "string"
+      ]
+    },
+    {
+      "id": "6425b756f60c5bcff3030602",
+      "title": "Preparing For A Kubernetes Job Interview? We've Got You",
+      "cover_image": "https://img.freepik.com/free-photo/we-are-hiring-digital-collage_23-2149667027.jpg?w=740&t=st=1680194399~exp=1680194999~hmac=64503bd9529a65c2e7d920d3a82138c58d844c33b918a744eeaddcb45794c8c4",
+      "author_image": "https://buffer.com/library/content/images/2020/05/Ash-Read.png",
+      "author_name": "Murray Mcguire",
+      "read_time": 5,
+      "publish_date": "2014-12-03",
+      "tags": [
+        "kubernetes",
+        "job",
+        "interview"
+      ]
+    },
+    {
+      "id": "6425b7564f925dd921f7b7fc",
+      "title": "React FAQ: Setting Up, Installing, User Events & Best Practices",
+      "cover_image": "https://img.freepik.com/free-photo/it-specialist-checking-code-computer-dark-office-night_1098-18699.jpg?w=740&t=st=1680194476~exp=1680195076~hmac=b07d65bfd796d9d9d982bef27ec976b21014449748676b8bb94fc11a3a926910",
+      "author_image": "https://cdn.shopify.com/s/files/1/0074/4505/3498/articles/Biran-Lichtenstein-profile-square_1024x1024_5e6aa25e-f3c4-4357-839c-18adef779b88_800x.jpg?v=1623174453",
+      "author_name": "Walters Crane",
+      "read_time": 8,
+      "publish_date": "2015-07-24",
+      "tags": [
+        "react",
+        "react_faq",
+        "react_events"
+      ]
+    }
+  ]

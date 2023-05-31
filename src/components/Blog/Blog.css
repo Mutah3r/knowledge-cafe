@@ -1,0 +1,138 @@
+.blog-post-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-bottom: 1px solid rgba(17, 17, 17, 0.1);
+    ;
+}
+
+.blog-cover-container {
+    /* width: 845px;
+    height: 450px; */
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 32px;
+}
+
+.blog-cover {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}
+
+.blog-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.blog-author-info {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+}
+
+.read-time-bookmark-holder {
+    display: flex;
+    gap: 8px;
+}
+
+.blog-author-image-container {
+    width: 60px;
+    height: 60px;
+}
+
+.blog-author-image-container img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.blog-author-name-publish-date {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.blog-author-name {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    color: #111111;
+}
+
+.blog-publish-date {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: rgba(17, 17, 17, 0.6);
+}
+
+.blog-read-time {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: rgba(17, 17, 17, 0.6);
+}
+
+.bookmark-icon-container {
+    height: 24px;
+    width: 24px;
+}
+
+.bookmark-icon-container img {
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+}
+
+.blog-title-container {
+    margin: 16px 0px;
+}
+
+.blog-title-container h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 64px;
+    color: #111111;
+}
+
+.blog-tags {
+    margin-bottom: 21px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.blog-tag {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    color: rgba(17, 17, 17, 0.6);
+}
+
+.blog-tag::before {
+    content: '#';
+}
+
+.mark-read-container {
+    padding-bottom: 38px;
+}
+
+.mark-read-container p {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #6047EC;
+    cursor: pointer;
+    display: inline-block;
+}
+
+@media only screen and (max-width: 576px) {
+    .blog-info {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+}

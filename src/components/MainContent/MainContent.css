@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 24px;
+}
+
+@media only screen and (max-width: 992px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+    }
+}
